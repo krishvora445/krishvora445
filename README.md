@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Krish vora]!
+# 👋 Hi, I'm Krish vora!
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXN2Z3RtZWN5cWd1ZGJpZGNqY2o5aXc0bWd0amJjcnJoc3U3a2Z1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYxK/giphy.gif" width="50px">
@@ -42,7 +42,7 @@ I'm currently designing my first project, a personal portfolio website, to showc
 
 ## 📊 My GitHub Stats
 
-![[Krishvora445]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical)
+![Krishvora445's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical)
 
 ---
 
@@ -51,6 +51,6 @@ I'm currently designing my first project, a personal portfolio website, to showc
 I'm always open to connecting with other developers, students, and mentors. Feel free to reach out!
 
 <p align="left">
-<a href="https://linkedin.com/in/krish-vora-81909234b" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="[krish vora]'s LinkedIn" /></a>
-<a href="https://twitter.com/krish87872" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="[krsih vora]'s Twitter" /></a>
+<a href="https://linkedin.com/in/krish-vora-81909234b" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="krish vora's LinkedIn" /></a>
+<a href="https://twitter.com/krish87872" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="krsih vora's Twitter" /></a>
 </p>
