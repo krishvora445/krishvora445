@@ -42,7 +42,7 @@ I'm currently designing my first project, a personal portfolio website, to showc
 
 ## 📊 My GitHub Stats
 
-![Krishvora445's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical)
+![Krishvora445's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Krishvora445]&show_icons=true&theme=radical)
 
 ---
 
